@@ -1,0 +1,6 @@
+{
+  "version": "0.2",
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "useGitignore": true,
+  "words": ["Contador", "localizable", "mostrado", "página", "Texto"]
+}
